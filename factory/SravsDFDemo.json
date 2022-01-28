@@ -1,0 +1,9 @@
+{
+	"name": "SravsDFDemo",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d871f04e-c553-43ba-b59e-7d9b24812d0d",
+		"tenantId": "5af3d0cb-ac23-46a2-ba3e-7664263bf62c"
+	}
+}
